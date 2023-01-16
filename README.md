@@ -1,7 +1,7 @@
 # odin-recipes
 
 ### Explaination
-This is a simple mutli page html site, witha homepage and links to multiple recipe pages.
+This is a simple mutli page html site, with a home page and links to multiple recipe pages.
 
 ### Skills Learned
 By completing this project I will have demonstrated the following:

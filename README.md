@@ -1,6 +1,6 @@
 # odin-recipes
 
-### Explaination
+### Explanation
 This is a simple mutli page html site, with a home page and links to multiple recipe pages.
 
 ### Skills Learned
